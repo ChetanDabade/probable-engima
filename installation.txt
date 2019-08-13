@@ -1,0 +1,17 @@
+Installation guide
+
+-------------------------------------------------------------------------------------------
+
+Vivamus consectetur diam a purus dictum cursus. Cras non placerat orci, et cursus neque. Praesent malesuada mauris id tellus sollicitudin egestas. 
+Donec eu turpis ac libero condimentum blandit eget non leo. Phasellus et dui eget lectus sollicitudin feugiat. Proin vel leo imperdiet, dapibus enim et,
+convallis ante. Cras laoreet nunc nec mi interdum accumsan. Phasellus ac justo iaculis urna lacinia fermentum. 
+
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean fermentum sem eu luctus congue. 
+Aenean faucibus, lectus vitae rutrum bibendum, leo orci iaculis eros, id lobortis ante dui et quam.
+
+Sed eu lectus convallis, interdum diam vitae, consequat ipsum. Pellentesque pretium felis ut volutpat ornare. Pellentesque vitae accumsan sem, 
+nec fringilla elit. Fusce eget diam aliquam, auctor erat nec, bibendum metus. Orci varius natoque penatibus et magnis dis parturient montes, 
+nascetur ridiculus mus. Vivamus a sagittis ex. Maecenas feugiat nisi eget hendrerit accumsan. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Aenean dapibus volutpat nibh non convallis.Sed luctus tempor nunc et dapibus. In hac habitasse platea dictumst. Vestibulum at tempus lectus.Curabitur 
+vel lacus facilisis mi maximus ornare id in lectus. Nullam eu est eu augue dictum dictum. Ut semper, ligula sit amet auctor commodo, sapien sapien faucibus dolor, 
+vitae dapibus felis enim sed leo.
